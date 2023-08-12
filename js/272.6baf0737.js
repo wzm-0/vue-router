@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue_router_demo"]=self["webpackChunkvue_router_demo"]||[]).push([[272],{1272:function(e,u,n){n.r(u),n.d(u,{default:function(){return f}});var r=n(3396),t=n(7139);const o=(0,r._)("h3",null,"新闻详情",-1);function a(e,u){return(0,r.wg)(),(0,r.iD)(r.HY,null,[o,(0,r._)("p",null,(0,t.zw)(e.$route.params.name),1)],64)}var l=n(89);const c={},s=(0,l.Z)(c,[["render",a]]);var f=s}}]);
-//# sourceMappingURL=272.6baf0737.js.map

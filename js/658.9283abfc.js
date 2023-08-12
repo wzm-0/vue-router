@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue_router_demo"]=self["webpackChunkvue_router_demo"]||[]).push([[658],{3075:function(e,r,u){u.r(r),u.d(r,{default:function(){return f}});var n=u(3396);function t(e,r){return(0,n.wg)(),(0,n.iD)("h3",null,"关于信息")}var o=u(89);const c={},a=(0,o.Z)(c,[["render",t]]);var f=a}}]);
-//# sourceMappingURL=658.9283abfc.js.map
